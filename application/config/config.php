@@ -23,11 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-<<<<<<< HEAD
-$config['base_url'] = 'http://localhost:8080/StageEsav';
-=======
 $config['base_url'] = 'http://localhost/stageesav/';
->>>>>>> 6157049755cf19a26a45fda6e6cdb4ac99f6ecc5
+
 
 /*
 |--------------------------------------------------------------------------
