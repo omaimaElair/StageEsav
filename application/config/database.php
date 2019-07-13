@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+<<<<<<< HEAD
 	'database' => 'ESAV',
+=======
+	'database' => 'esav',
+>>>>>>> 6157049755cf19a26a45fda6e6cdb4ac99f6ecc5
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
