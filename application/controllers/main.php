@@ -6,7 +6,7 @@ class main extends CI_Controller {
 
 	public function index()
 	{
-        $this->load->view('test');
+        $this->load->view('addclasse');
     }
 
     public function AddClasse()
